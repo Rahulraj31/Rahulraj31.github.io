@@ -1,0 +1,9 @@
+img {
+  border-radius: 2px;
+  background: url("about/IMG-20190614-WA0012.jpg");
+  transform: scale(1);
+  filter: grayscale(17%);
+  border-style: solid;
+  background-size: cover;
+}
+
